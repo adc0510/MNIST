@@ -1,14 +1,14 @@
 # MNIST
 MNIST web
 
-requirement:
+# Requirement:
 
-Django
+Django\n
 torch
 
-Run in terminal:
+# Run in terminal:
 
-cd web
-cd mnist
+cd web\n
+cd mnist\n
 python manage.py runserver
 
