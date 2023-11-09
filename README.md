@@ -3,12 +3,12 @@ MNIST web
 
 # Requirement:
 
-Django\n
+Django <br />
 torch
 
 # Run in terminal:
 
-cd web\n
-cd mnist\n
+cd web <br />
+cd mnist <br />
 python manage.py runserver
 
